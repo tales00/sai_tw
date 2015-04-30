@@ -2,6 +2,7 @@
 Paint tool SAI 中文語系檔
 
 這是繪圖軟體 [PaintTool SAI] [systemax] 的中文語系檔，以及其他相關中文化檔案
+對應版本為 1.2.0
 
 # 使用方法
 把 language.conf 替換掉你安裝 SAI 的目錄底下的同名檔案
@@ -23,7 +24,7 @@ Paint tool SAI 中文語系檔
 
 
 ### 附註
-我建議下載英文版的在套用這個中文語系檔會比較愉快，如果你是全新安裝的話。
+我建議下載英文版的再套用這個中文語系檔會比較愉快，如果你是全新安裝的話。
 
 
 [systemax]: http://www.systemax.jp/en/sai/ "SYSTEMAX公司網站"
